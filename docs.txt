@@ -1,1 +1,2 @@
 This is docs.txt from branch A
+This is docs.txt from branch B
